@@ -146,10 +146,4 @@ This project is licensed under the MIT License.
 
 ---
 
-## 🎉 Acknowledgments  
-- Special thanks to the creators of the [EasyVisa Dataset](https://www.kaggle.com/datasets/moro23/easyvisa-dataset).  
-- Inspiration and guidance from the [YouTube Playlist](https://youtube.com/playlist?list=PLkz_y24mlSJZvJOj1UXiJPVRQrNFdNEXX&si=FRFLpnve9MS6Rii9).  
-
----
-
 This README.md is crafted to attract recruiters and users by clearly explaining the project purpose, technology stack, workflow, and deployment process. You can directly add this to your GitHub repository. If you want any modifications or additional sections, let me know! 🚀
